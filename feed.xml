@@ -3,23 +3,29 @@
     <title>Dan&#x27;s Space</title>
     <link href="https://dan-333.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://dan-333.github.io/gh-pages" />
-    <updated>2023-10-26T12:03:32+08:00</updated>
+    <updated>2023-10-26T12:19:57+08:00</updated>
     <author>
         <name>Dan</name>
     </author>
     <id>https://dan-333.github.io/gh-pages</id>
 
     <entry>
-        <title>vcx</title>
+        <title>Brochure Design</title>
         <author>
             <name>Dan</name>
         </author>
         <link href="https://dan-333.github.io/gh-pages/vcx.html"/>
         <id>https://dan-333.github.io/gh-pages/vcx.html</id>
-        <media:content url="https://dan-333.github.io/gh-pages/media/posts/1/4x.webp" medium="image" />
+        <media:content url="https://dan-333.github.io/gh-pages/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" medium="image" />
 
-        <updated>2023-10-26T12:03:32+08:00</updated>
+        <updated>2023-10-26T12:19:57+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dan-333.github.io/gh-pages/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://dan-333.github.io/gh-pages/media/posts/1/Xuan-Chuan-Ce-2.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://dan-333.github.io/gh-pages/media/posts/1/Xuan-Chuan-Ce-3.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w"></figure>
+            ]]>
+        </content>
     </entry>
 </feed>
