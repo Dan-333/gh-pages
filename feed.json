@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Dan&#x27;s Space",
     "description": "",
-    "home_page_url": "https://dan-333.github.io/gh-pages",
-    "feed_url": "https://dan-333.github.io/gh-pages/feed.json",
+    "home_page_url": "https://dan33.me",
+    "feed_url": "https://dan33.me/feed.json",
     "user_comment": "",
-    "icon": "https://dan-333.github.io/gh-pages/media/website/Dan-2.png",
+    "icon": "https://dan33.me/media/website/Dan-2.png",
     "author": {
         "name": "Dan"
     },
     "items": [
         {
-            "id": "https://dan-333.github.io/gh-pages/web-design.html",
-            "url": "https://dan-333.github.io/gh-pages/web-design.html",
+            "id": "https://dan33.me/web-design.html",
+            "url": "https://dan33.me/web-design.html",
             "title": "Web Design",
             "author": {
                 "name": "Dan"
@@ -23,12 +23,12 @@
             "date_modified": "2023-10-26T16:42:16+08:00"
         },
         {
-            "id": "https://dan-333.github.io/gh-pages/vcx.html",
-            "url": "https://dan-333.github.io/gh-pages/vcx.html",
+            "id": "https://dan33.me/vcx.html",
+            "url": "https://dan33.me/vcx.html",
             "title": "Brochure Design",
             "summary": "test test test test test test test test test test",
-            "content_html": "<p>test test test test test test test test test test </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan-333.github.io/gh-pages/media/posts/1/Xuan-Chuan-Ce-2.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan-333.github.io/gh-pages/media/posts/1/Xuan-Chuan-Ce-3.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan-333.github.io/gh-pages/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w\"></figure>",
-            "image": "https://dan-333.github.io/gh-pages/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg",
+            "content_html": "<p>test test test test test test test test test test </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan33.me/media/posts/1/Xuan-Chuan-Ce-2.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan33.me/media/posts/1/Xuan-Chuan-Ce-3.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w\"></figure>",
+            "image": "https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg",
             "author": {
                 "name": "Dan"
             },
