@@ -3,12 +3,24 @@
     <title>Dan&#x27;s Space</title>
     <link href="https://dan-333.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://dan-333.github.io/gh-pages" />
-    <updated>2023-10-26T13:12:12+08:00</updated>
+    <updated>2023-10-26T16:42:16+08:00</updated>
     <author>
         <name>Dan</name>
     </author>
     <id>https://dan-333.github.io/gh-pages</id>
 
+    <entry>
+        <title>Web Design</title>
+        <author>
+            <name>Dan</name>
+        </author>
+        <link href="https://dan-333.github.io/gh-pages/web-design.html"/>
+        <id>https://dan-333.github.io/gh-pages/web-design.html</id>
+
+        <updated>2023-10-26T16:42:16+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Brochure Design</title>
         <author>

@@ -5,10 +5,23 @@
     "home_page_url": "https://dan-333.github.io/gh-pages",
     "feed_url": "https://dan-333.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://dan-333.github.io/gh-pages/media/website/Dan-2.png",
     "author": {
         "name": "Dan"
     },
     "items": [
+        {
+            "id": "https://dan-333.github.io/gh-pages/web-design.html",
+            "url": "https://dan-333.github.io/gh-pages/web-design.html",
+            "title": "Web Design",
+            "author": {
+                "name": "Dan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-26T16:42:16+08:00",
+            "date_modified": "2023-10-26T16:42:16+08:00"
+        },
         {
             "id": "https://dan-333.github.io/gh-pages/vcx.html",
             "url": "https://dan-333.github.io/gh-pages/vcx.html",
