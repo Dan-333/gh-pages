@@ -3,7 +3,7 @@
     <title>Dan&#x27;s Space</title>
     <link href="https://dan-333.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://dan-333.github.io/gh-pages" />
-    <updated>2023-10-26T11:22:17+08:00</updated>
+    <updated>2023-10-26T12:03:32+08:00</updated>
     <author>
         <name>Dan</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://dan-333.github.io/gh-pages/vcx.html"/>
         <id>https://dan-333.github.io/gh-pages/vcx.html</id>
+        <media:content url="https://dan-333.github.io/gh-pages/media/posts/1/4x.webp" medium="image" />
 
-        <updated>2023-10-26T11:22:17+08:00</updated>
+        <updated>2023-10-26T12:03:32+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
