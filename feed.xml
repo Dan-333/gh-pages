@@ -3,7 +3,7 @@
     <title>Dan&#x27;s Space</title>
     <link href="https://dan33.me/feed.xml" rel="self" />
     <link href="https://dan33.me" />
-    <updated>2023-10-29T23:35:12+08:00</updated>
+    <updated>2023-10-29T23:39:18+08:00</updated>
     <author>
         <name>Dan</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://dan33.me/web-design.html</id>
             <category term="标签1"/>
 
-        <updated>2023-10-29T23:35:12+08:00</updated>
+        <updated>2023-10-29T23:39:18+08:00</updated>
             <summary>
                 <![CDATA[
                     https://vip.helloimg.com/images/2023/10/29/oO3FzR.png
@@ -26,7 +26,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>https://vip.helloimg.com/images/2023/10/29/oO3FzR.png</p>
+                <p><a href="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png">https://vip.helloimg.com/images/2023/10/29/oO3FzR.png</a></p>
+<p><a href="https://www.helloimg.com/image/oO3FzR"><img loading="lazy" src="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png" alt="oO3FzR.png" border="0" data-is-external-image="true"></a></p>
             ]]>
         </content>
     </entry>
@@ -39,7 +40,7 @@
         <id>https://dan33.me/vcx.html</id>
         <media:content url="https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" medium="image" />
 
-        <updated>2023-10-26T17:17:39+08:00</updated>
+        <updated>2023-10-29T23:38:20+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" alt="" />
@@ -50,7 +51,13 @@
             <![CDATA[
                     <p><img src="https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" class="type:primaryImage" alt="" /></p>
                 <p>test test test test test test test test test test </p>
+<figure class="post__image"><img loading="lazy"  src="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png" alt="" data-is-external-image="true"></figure>
+<p><a href="https://www.helloimg.com/image/oO3FzR"><img loading="lazy" src="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png" alt="oO3FzR.png" border="0" data-is-external-image="true"></a></p>
+<p> </p>
+<p> </p>
+<p> </p>
 <figure class="post__image"><img loading="lazy"  src="https://dan33.me/media/posts/1/Xuan-Chuan-Ce-2.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png" alt="" data-is-external-image="true"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://dan33.me/media/posts/1/Xuan-Chuan-Ce-3.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w"></figure>
             ]]>
         </content>
