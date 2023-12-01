@@ -14,22 +14,20 @@
             "id": "https://dan33.me/web-design.html",
             "url": "https://dan33.me/web-design.html",
             "title": "Web Design",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HDvzPk816-w?si=lb1Q3PLY10-hpwHQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://player.bilibili.com/player.html?aid=407126684&amp;bvid=BV1qG41117wi&amp;cid=1298504150&amp;p=1&amp;high_quality=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"allowfullscreen\"> </iframe></div>",
             "author": {
                 "name": "Dan"
             },
             "tags": [
-                   "标签1"
             ],
             "date_published": "2023-10-26T16:42:16+08:00",
-            "date_modified": "2023-10-31T22:21:39+08:00"
+            "date_modified": "2023-10-26T16:42:16+08:00"
         },
         {
             "id": "https://dan33.me/vcx.html",
             "url": "https://dan33.me/vcx.html",
             "title": "Brochure Design",
-            "summary": "t t t est test tes t",
-            "content_html": "<p>t</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"//player.bilibili.com/player.html?aid=16825580&amp;bvid=BV1zW411a7oe&amp;cid=27489811&amp;p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"allowfullscreen\"> </iframe></div>\n<p> </p>\n<p>t</p>\n<p>t</p>\n<p> </p>\n<p>est test tes</p>\n<p>t </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vip.helloimg.com/images/2023/10/29/oO3FzR.png\" alt=\"\" data-is-external-image=\"true\"></figure>\n<p><a href=\"https://www.helloimg.com/image/oO3FzR\"><img loading=\"lazy\" src=\"https://vip.helloimg.com/images/2023/10/29/oO3FzR.png\" alt=\"oO3FzR.png\" border=\"0\" data-is-external-image=\"true\"></a></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan33.me/media/posts/1/Xuan-Chuan-Ce-2.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vip.helloimg.com/images/2023/10/29/oO3FzR.png\" alt=\"\" data-is-external-image=\"true\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan33.me/media/posts/1/Xuan-Chuan-Ce-3.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w\"></figure>",
+            "summary": "test test test test test test test test test test",
+            "content_html": "<p>test test test test test test test test test test </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan33.me/media/posts/1/Xuan-Chuan-Ce-2.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dan33.me/media/posts/1/Xuan-Chuan-Ce-3.png\" alt=\"\" width=\"900\" height=\"713\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w\"></figure>",
             "image": "https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg",
             "author": {
                 "name": "Dan"
@@ -37,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2023-10-26T11:22:17+08:00",
-            "date_modified": "2023-10-31T22:14:00+08:00"
+            "date_modified": "2023-10-26T17:17:39+08:00"
         }
     ]
 }

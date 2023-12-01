@@ -3,7 +3,7 @@
     <title>Dan&#x27;s Space</title>
     <link href="https://dan33.me/feed.xml" rel="self" />
     <link href="https://dan33.me" />
-    <updated>2023-10-31T22:21:39+08:00</updated>
+    <updated>2023-10-26T17:17:39+08:00</updated>
     <author>
         <name>Dan</name>
     </author>
@@ -16,16 +16,10 @@
         </author>
         <link href="https://dan33.me/web-design.html"/>
         <id>https://dan33.me/web-design.html</id>
-            <category term="标签1"/>
 
-        <updated>2023-10-31T22:21:39+08:00</updated>
+        <updated>2023-10-26T16:42:16+08:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/HDvzPk816-w?si=lb1Q3PLY10-hpwHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://player.bilibili.com/player.html?aid=407126684&amp;bvid=BV1qG41117wi&amp;cid=1298504150&amp;p=1&amp;high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"> </iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Brochure Design</title>
@@ -36,31 +30,18 @@
         <id>https://dan33.me/vcx.html</id>
         <media:content url="https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" medium="image" />
 
-        <updated>2023-10-31T22:14:00+08:00</updated>
+        <updated>2023-10-26T17:17:39+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" alt="" />
-                    t t t est test tes t
+                    test test test test test test test test test test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dan33.me/media/posts/1/Qi-Du-Xuan-Chuan-Ce.jpg" class="type:primaryImage" alt="" /></p>
-                <p>t</p>
-<div class="post__iframe"><iframe loading="lazy" src="//player.bilibili.com/player.html?aid=16825580&amp;bvid=BV1zW411a7oe&amp;cid=27489811&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"> </iframe></div>
-<p> </p>
-<p>t</p>
-<p>t</p>
-<p> </p>
-<p>est test tes</p>
-<p>t </p>
-<figure class="post__image"><img loading="lazy"  src="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png" alt="" data-is-external-image="true"></figure>
-<p><a href="https://www.helloimg.com/image/oO3FzR"><img loading="lazy" src="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png" alt="oO3FzR.png" border="0" data-is-external-image="true"></a></p>
-<p> </p>
-<p> </p>
-<p> </p>
+                <p>test test test test test test test test test test </p>
 <figure class="post__image"><img loading="lazy"  src="https://dan33.me/media/posts/1/Xuan-Chuan-Ce-2.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-2-xl.png 1600w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://vip.helloimg.com/images/2023/10/29/oO3FzR.png" alt="" data-is-external-image="true"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://dan33.me/media/posts/1/Xuan-Chuan-Ce-3.png" alt="" width="900" height="713" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xs.png 384w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-sm.png 600w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-md.png 768w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-lg.png 1200w ,https://dan33.me/media/posts/1/responsive/Xuan-Chuan-Ce-3-xl.png 1600w"></figure>
             ]]>
         </content>
