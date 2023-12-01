@@ -3,7 +3,7 @@
     <title>Dan&#x27;s Space</title>
     <link href="https://dan33.me/feed.xml" rel="self" />
     <link href="https://dan33.me" />
-    <updated>2023-12-01T15:29:59+08:00</updated>
+    <updated>2023-12-01T15:32:37+08:00</updated>
     <author>
         <name>Dan</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://dan33.me/web-design.html</id>
             <category term="标签一"/>
 
-        <updated>2023-12-01T15:29:59+08:00</updated>
+        <updated>2023-12-01T15:32:37+08:00</updated>
             <summary>
                 <![CDATA[
                     https://bestcovered.com
@@ -26,9 +26,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <blockquote>
-<p><a target="_blank" rel="noopener noreferrer">https://bestcovered.com</a></p>
-</blockquote>
+                <p><a href="https://bestcovered.com" target="_blank" rel="noopener noreferrer">https://bestcovered.com</a></p>
             ]]>
         </content>
     </entry>

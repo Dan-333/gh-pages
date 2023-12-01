@@ -15,7 +15,7 @@
             "url": "https://dan33.me/web-design.html",
             "title": "Web Design",
             "summary": "https://bestcovered.com",
-            "content_html": "<blockquote>\n<p><a target=\"_blank\" rel=\"noopener noreferrer\">https://bestcovered.com</a></p>\n</blockquote>",
+            "content_html": "<p><a href=\"https://bestcovered.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://bestcovered.com</a></p>",
             "author": {
                 "name": "Dan"
             },
@@ -23,7 +23,7 @@
                    "标签一"
             ],
             "date_published": "2023-10-26T16:42:16+08:00",
-            "date_modified": "2023-12-01T15:29:59+08:00"
+            "date_modified": "2023-12-01T15:32:37+08:00"
         },
         {
             "id": "https://dan33.me/vcx.html",
